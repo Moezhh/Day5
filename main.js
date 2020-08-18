@@ -3,7 +3,7 @@ i = 0 ; x = '' ;
 
      do 
          {
-         espace = " ".repeat(12-i);	
+         espace = " ".repeat(25-i);	
 	     x = x + "#";
          i = i + 1 ;
          y[i]= espace + x + "\n" ;
